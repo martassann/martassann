@@ -1,7 +1,4 @@
 # 💫 About Me:
-Claro, aquí tienes un texto profesional y atractivo para tu portfolio basado en la información de tu CV:
-
----
 
 Soy Técnica Superior en Desarrollo de Aplicaciones Multiplataforma, con formación complementaria en Sistemas Microinformáticos y Redes. Durante mi trayectoria académica y profesional, he desarrollado una sólida base en diseño y desarrollo web, especializándome en el uso de WordPress, HTML, CSS y JavaScript.
 
