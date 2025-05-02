@@ -1,6 +1,13 @@
 # 💫 About Me:
-Soy Marta Sánchez Sánchez , una apasionada del desarrollo de aplicaciones.<br><br>🎓Mi estudios académicos son Desarrollo de aplicaciones multiplataforma y Sistemas microinformáticos y redes.<br><br>🖥️Trabajos realizados durante mis estudios:<br>       🎮Desarrollador Videojuego : Creación de un videojuego con la aplicación de Unity.<br>       📑Proyecto de Base de Datos: Diseño y desarrollo de una base de datos<br>       🌐Páginas Web<br>       👩‍🏭Montaje de hardware y configuración de una red
+Claro, aquí tienes un texto profesional y atractivo para tu portfolio basado en la información de tu CV:
 
+---
+
+Soy Técnica Superior en Desarrollo de Aplicaciones Multiplataforma, con formación complementaria en Sistemas Microinformáticos y Redes. Durante mi trayectoria académica y profesional, he desarrollado una sólida base en diseño y desarrollo web, especializándome en el uso de WordPress, HTML, CSS y JavaScript.
+
+He tenido la oportunidad de aplicar mis conocimientos en entornos reales, participando como desarrolladora web en *Industrias I*, donde trabajé tanto en el diseño como en el mantenimiento de sitios WordPress. Además, complementé mi experiencia profesional como Community Manager en el evento BarberLand, gestionando contenido para redes sociales de forma efectiva y creativa.
+
+Mi objetivo es seguir creciendo como desarrolladora full-stack, aportando soluciones funcionales, atractivas y adaptadas a las necesidades de cada proyecto.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marta-sánchez-3b025b268) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Martassann@gmail.com) 
