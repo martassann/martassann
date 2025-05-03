@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Soy Técnica Superior en Desarrollo de Aplicaciones Multiplataforma, con formación complementaria en Sistemas Microinformáticos y Redes. Durante mi trayectoria académica y profesional, he desarrollado una sólida base en diseño y desarrollo web, especializándome en el uso de WordPress, HTML, CSS y JavaScript.
+Soy Técnica Superior en Desarrollo de Aplicaciones Multiplataforma, con formación complementaria en Sistemas Microinformáticos y Redes. Durante mi trayectoria académica y profesional, he desarrollado una sólida base en diseño y desarrollo web, especializándome en el uso de WordPress, HTML, CSS, Java y JavaScript.
 
 He tenido la oportunidad de aplicar mis conocimientos en entornos reales, participando como desarrolladora web en *Industrias I*, donde trabajé tanto en el diseño como en el mantenimiento de sitios WordPress. Además, complementé mi experiencia profesional como Community Manager en el evento BarberLand, gestionando contenido para redes sociales de forma efectiva y creativa.
 
